@@ -37,31 +37,6 @@
 -----  
 
 
-<h1 align="center">Repositories to contribute in Hacktoberfest🤩</h1>
-
-| Repository Name      | Description | 
-| :---:        |    :----   |  
-| [Competition List](https://github.com/vamshi200/Competitions-and-Programs-List) | List of competitions for college students to participate and to enhance their skills. |
-| [Free courses with certificate](https://github.com/vamshi200/Free-courses-with-Certificates) | This repository contains list of free courses with certificates. Go ahead and add more courses in your knowledge. |
-| [To-Do-List](https://github.com/vamshi200/To-Do-List)    | This is a javascript TO-Do-List app , you can contribute to this project by adding some extra feature or by improving UI/UX.      
-| [Portfolio Collection](https://github.com/vamshi200/Portfolio-Collection)      | This repository contains collection of portfolio's . You can add your own repository.
-
-
-
-
-
-<h1 align="center">Projects</h1>
-
-</div>
-<div  align="center">
- 
-<a href="https://vamshi200.github.io/Vamshi/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vamshi200&repo=Vamshi-Kardhanoori&show_icons=true&theme=great-gatsby" ></a>
-<a href="https://vamshi200.github.io/weather-app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vamshi200&repo=weather-app&show_icons=true&theme=great-gatsby" ></a>
-<a href="https://vamshi200.github.io/To-Do-List/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vamshi200&repo=To-Do-List&show_icons=true&theme=great-gatsby"></a>
-<a href="https://meme-generator-three-psi.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vamshi200&repo=MemeGenerator&show_icons=true&theme=great-gatsby"></a>
-
-</div>
-
 
 
 ### Languages and Tools
